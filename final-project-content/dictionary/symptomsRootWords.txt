@@ -1,0 +1,496 @@
+abnormal walk 
+abnormal muscle enlargement 
+abnormally round face 
+agitation 
+anxiety 
+apathy 
+bad breath 
+bad taste in mouth 
+bald spot hair 
+belch 
+binge drink alcohol 
+binge eat 
+bitter almond odor on breath 
+black color stool 
+black color skin 
+blackout memory time loss 
+blank stare 
+bleed 
+bleed from nipple 
+bleed gum 
+bleed in eye 
+blind spot in vision 
+blindness 
+blink eye 
+bloat or fullness 
+blood in toilet 
+blood on stool surface 
+blood on toilet tissue 
+blood or red color urine 
+bloody or red color stool 
+bloody or red color vomit 
+blue color skin 
+blue colour lip 
+blur vision 
+body ache 
+brittle hair 
+break bone 
+break bone 
+bruise or discoloration 
+bulge eye 
+bulge neck vein 
+bulge vein 
+change in bowel habit 
+change in hair texture 
+change in stool 
+change in vision 
+chill 
+choke 
+choke on food 
+click or pop sound from jaw 
+cloudy urine with strong odor 
+cloudy vision 
+coarse hair 
+coat or furry tongue 
+coffee ground color vomit 
+cold foot 
+cold hand 
+color change 
+coma 
+compulsive behavior 
+confusion 
+constipation 
+cough 
+crack at corner of mouth 
+crave alcohol 
+crave to eat ice dirt or paper 
+cry during sleep 
+curve fingernail 
+curve or bend penis during erection 
+curve spine 
+damage teeth enamel 
+dark color urine 
+decrease appetite 
+decrease night vision 
+decrease school performance 
+decrease smell 
+decrease sweat 
+decrease taste 
+decrease tear cry 
+decrease urination 
+delay language skill 
+delay motor development 
+delusion 
+depress mood 
+developmental delay 
+diarrhea 
+difficult to wake from sleep 
+difficulty breathe through nose 
+difficulty concentrate 
+difficulty fall asleep 
+difficulty find word 
+difficulty learn new thing 
+difficulty move arm 
+difficulty open mouth 
+difficulty relax muscle after contract them 
+difficulty sleep 
+difficulty solve problem 
+difficulty stand 
+difficulty start urine stream 
+difficulty stay asleep 
+difficulty stay awake during day 
+difficulty stop urine stream 
+difficulty swallow 
+difficulty talk 
+difficulty urinate 
+discharge from nipple 
+discharge from penis 
+discharge or mucus in eye 
+dislike change in daily routine 
+disorientation 
+distend stomach 
+distort body image 
+distortion of part of visual field 
+dizziness 
+double vision with one eye cover 
+double vision without one eye cover 
+drainage or pu 
+drink excessive fluid 
+drool 
+droop eyelid 
+droop of one side of face 
+drowsiness 
+dry eye 
+dry mouth 
+dry skin 
+ear ache 
+early breast development 
+early morning wake 
+easily distract 
+easy bleed 
+easy bruise 
+emotional detachment 
+enlarge dilate pupil 
+enlarge dilate vein 
+enlarge finger tip 
+enlarge or swell gland 
+episode of not breathe during sleep 
+erectile dysfunction 
+excessive body hair growth 
+excessive cry 
+excessive exercise 
+excessive facial hair growth female 
+excessive facial hair growth male 
+excessive mouth water 
+excessive sweat 
+excessively salty sweat or skin 
+eye crust with sleep 
+eye irritation 
+eyelash fall out 
+eyelid redness 
+eye do not track together 
+eye roll back 
+faint 
+fatigue 
+fear of air 
+fear of gain weight 
+fear of water 
+fearful 
+feel faint 
+feel of be detach from reality 
+feel of not be able to get enough air 
+feel smother 
+fever 
+fit of rage 
+flake skin 
+flashback 
+flicker light in vision 
+flicker uncorlored zig zag line in vision 
+float spot or string in vision 
+flush skin 
+food crave 
+food get stick swallow 
+forgetfulness 
+foul smell stool 
+frequent bowel movement 
+frequent change in eye glass prescription 
+frequent chew 
+frequent infection 
+frequent laxative use 
+frequent nighttime urination 
+frequent squint 
+frequent urge to have bowel movement 
+frequent urge to urinate 
+frequent urination 
+frighten dream 
+frighten thought 
+fruity odor on breath 
+gag 
+giddiness 
+grind teeth 
+gritty or scratchy eye 
+groove tongue 
+guard or favor joint 
+gum sore 
+hair loss 
+hallucination 
+headache 
+hear loss 
+hear voice 
+heartburn 
+heavy menstrual bleed 
+high blood pressure 
+hive 
+hoarse voice 
+hold bowel movement 
+hold object closer to read 
+hold object further away to read 
+hot flash 
+hot dry skin 
+hunch or stoop posture 
+hunger 
+hyperactive behavior 
+hyperventilate 
+deep breathe 
+impair color vision 
+impair judgement 
+impair social skill 
+impulsive behavior 
+inability to care for self 
+inability to move 
+inappropriate behavior 
+increase pass gas 
+increase sensitivity to cold 
+increase sensitivity to heat 
+increase speech volume 
+increase talkativeness 
+increase thirst 
+intentional vomit purge 
+involuntary head turn or twist 
+involuntary movement pick lip smack etc 
+irregular heartbeat 
+irregular menstrual period 
+itch or burn 
+jaw lock 
+jerk eye movement 
+joint ache 
+joint instability 
+joint lock or catch 
+joint pain 
+jumpiness or easily startle 
+labor breathe 
+lack of emotion 
+lack of motivation 
+lack of pleasure 
+lightheadedness 
+loss of balance 
+loss of consciousness 
+loss of coordination 
+loss of height 
+loss of outside 1 3 of eyebrow 
+loss of side vision 
+loss of voice 
+low blood pressure 
+low self esteem 
+lump or bulge 
+memory problem 
+metallic taste in mouth 
+miss or late menstrual period 
+mood swing 
+morning alcohol drink 
+morning joint stiffness 
+mouth sore 
+muffle voice 
+multiple bruise of different age 
+muscle cramp 
+spasm painful 
+muscle stiffness rigidity 
+muscle twitch painless 
+muscle waste 
+muscle weakness 
+nasal congestion 
+nasal symptom 
+one red eye 
+nausea 
+vomit 
+need brighter light to read 
+nervousness 
+new onset asthma 
+night sweat 
+nighttime wheeze 
+no menstrual period 
+no strength 
+no pain 
+noisy breathe 
+nosebleed 
+numbness 
+tingle 
+overweight 
+pain 
+pain during erection 
+pain 
+discomfort 
+pain move eye 
+pain swallow 
+pain with sexual intercourse 
+pain with sexual intercourse 
+pain with urination 
+painful bowel movement 
+painful ejaculation 
+painful red lump on eyelid 
+pale skin 
+palpitation 
+flutter in chest 
+paranoid behavior 
+partial vision loss 
+personality change 
+poor concentration 
+poor personal hygiene 
+pop 
+snap sound from joint 
+post nasal drip 
+pound heart pulse 
+premature ejaculation 
+pressure 
+fullness 
+pressure 
+heaviness 
+prolong bleed 
+prolong breathe pause 
+protrude rectal material 
+protrude vaginal material 
+puffy eyelid 
+pull out beard 
+pull out eyebrow 
+pull out eyelash 
+pull out hair 
+pulsate sensation 
+punch 
+kick in sleep 
+rapid breathe 
+rapid heart rate 
+rapid speech 
+recent memory loss 
+red eye 
+red tongue 
+red eye 
+red gum 
+red spot on fingernail 
+black spot on fingernail 
+red spot 
+red spot inside lower eyelid 
+reduce productivity at work 
+regurgitation of food or liquid 
+repeat phrase 
+repetitive behaviour 
+restless sleep 
+restless leg 
+restless 
+irritability 
+restrictive diet 
+ring in ear 
+runny nose 
+sadness 
+scaley skin on eyelid 
+see letter number 
+see musical note a color 
+seizure 
+uncontrollable jerk of limb 
+sensation of something in eye 
+sense of impend doom 
+sensitive to light 
+sensitive to noise 
+shadow over part of vision 
+shake 
+shake chill 
+shake hand 
+tremor 
+short arm 
+short leg 
+short attention span 
+short stature 
+short wide neck 
+shorten of limb 
+shortness of breath 
+shuffle gait 
+single palm crease 
+skin blister 
+skin bump 
+skin darken 
+skin harden 
+skin irritation 
+skin open sore 
+skin peel crack 
+scale 
+skin rash 
+skin redness 
+skin thicken 
+sleep walk 
+slow growth 
+failure to thrive 
+slow heart rate 
+slow breathe 
+irregular breathe 
+slow urine stream 
+weak urine stream 
+slow think 
+slur speech 
+small pupil 
+smooth tongue 
+sneeze 
+snore 
+socially withdraw 
+sore eye 
+burn eye 
+sore throat 
+sore tongue 
+soreness 
+burn inside of mouth 
+spin sensation 
+spot on throat 
+spot on tonsil 
+squat 
+squint eye 
+stiff neck 
+stiffness 
+decrease movement 
+stomach cramp 
+stool leak 
+incontinence 
+strain with bowel movement 
+strange smell 
+strange taste 
+sudden flash of light 
+sudden numbness 
+weakness on one side of body 
+sudden urge to urinate 
+sink eye 
+sink soft spot on top of head 
+swell 
+swell gum 
+swell lip 
+swell tongue 
+swell tonsil 
+taste of acid in mouth 
+taste word they be hear 
+tear in one eye 
+teeth do not fit like they use to 
+tender gland 
+tenderness to touch 
+testicle shrinkage 
+testicular pain 
+thick saliva 
+thick mucus 
+thin pencil stool 
+throat tightness 
+tightness 
+tilt head to look at something 
+tire quickly 
+tremble 
+trouble distinguish color shade 
+twist or rotation of limb 
+unable to bear weight 
+unable to bend foot down 
+unable to blink or close eyelid 
+unable to grip 
+unable to move arm 
+unable to move joint 
+unable to move leg 
+unable to obtain or maintain erection 
+unable to open mouth 
+uncontrollable verbal outburst 
+unequal pupil 
+unusual behavior 
+unusual facial expression 
+unusual or suspicious mole 
+unusual taste in mouth 
+unusually short forth finger 
+upset stomach 
+upward curve of nail 
+urine leak 
+vaginal bleed 
+vaginal bleed after menopause 
+vaginal bleed between period 
+vaginal discharge 
+vaginal dryness 
+vaginal odor 
+visible bug or parasite 
+visible deformity 
+visible pulsation 
+vision fade of color 
+visual halo around light 
+warm to touch 
+watery eye 
+weakness 
+weakness 
+weight gain 
+weight loss 
+welt 
+wheeze 
+white patch 
+white patch inside mouth 
+white patch on tongue 
+worm in stool 
+yell out during sleep 
+yellow eye 
+yellow skin 
