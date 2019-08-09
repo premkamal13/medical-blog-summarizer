@@ -4,3 +4,6 @@ A software which takes the content of the blogs written by patients on the Onlin
 The target of the project is to save time of the doctors and ensure a quicker reply to the patients. 
 
 The implementation of the software has been done in three ways: Dictionary based, Rules based &amp; Machine Learning based techniques to optimise the performance in various practical cases.  
+
+For more details, download and read this complete report for now: 
+https://github.com/premkamal13/medical-blog-summarizer/blob/master/final-project-content/presentable-content/final-report.docx
