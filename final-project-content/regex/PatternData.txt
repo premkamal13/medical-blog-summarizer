@@ -1,0 +1,26 @@
+[a-z0-9]* years old
+[a-z0-9]* year old
+experiencing [^\.]*
+experienced [^\.]*
+had [^\.]*
+have [^\.]*
+having [^\.]*
+has [^\.]*
+got [^\.]*
+get [^\.]*
+there is [a-z]* in [^\.]*
+became [^\.]*
+noticed [^\.]*
+found [^\.]*
+developed [^\.]*
+feeling [^\.]*
+felt [^\.]*
+suffering from [^\.]*
+suffering with [^\.]*
+[a-z]* hurts
+[a-z]* is hurting
+treated for [^\.]*
+operated for [^\.]*
+[a-z]* has led to [^\.]*
+symptoms are [^\.]*
+problem is [^\.]*
